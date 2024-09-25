@@ -1,0 +1,17 @@
+/* heading*/
+h1 {
+    color: palevioletred;
+    font-family: cursive;
+  }
+
+/* para */
+p {
+    color: fuchsia;
+    font-family: cursive;
+  }
+
+  body {
+    background-image: url(media/dog1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
